@@ -1,7 +1,7 @@
 # Salim Rutaganda 👋  
 
 Hey there! I'm Salim Rutaganda.  
-I share tweets about code, startups, and life’s random quirks on [X](https://x.com/salimnunez-1).  
+I share tweets about code, startups, and life’s random quirks on [Twitter](https://x.com/salimnunez-1).  
 Follow me if you love **pixels**, **parentheses**, and the pursuit of profitable chaos. 💸  
 
 Currently, I’m building some side projects (read: profitable startups 🚀).  
