@@ -1,3 +1,3 @@
-I am Salim Rutaganda - a 16y/o product engineer from Rwanda
+I am Salim Rutaganda - a 16y/o product engineer based in Rwanda
 
 - Shipping things to prod 🍀
