@@ -1,3 +1,3 @@
-I am Salim - a 17y/o product engineer based in Rwanda
+Hey, I'm Salim - a 16y/o dev building cool things
 
 - Shipping things to prod 🍀
