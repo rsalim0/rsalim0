@@ -1,3 +1,3 @@
-Hey, I'm Salim - a 17y/o dev building cool shii
+Hey, I'm Salim -  18y/o dev building cool shii
 
 - Shipping things to prod 🍀
